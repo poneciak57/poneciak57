@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poneciak57
 - 👀 I’m interested in creating apps and websites
-- 🌱 I’m currently learning web development and improving my C++
+- 🌱 I’m currently improving my php/symfony skills and learning svelte
 - 📫 How to reach me ?: 
     - instagram: `poneciak_sw`
     - discord: `poneciak#1573`
