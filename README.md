@@ -6,9 +6,9 @@ I am passionate backend/fullstack developer from Poland
 
  **About me**
  
- - 💼 Intern Fullstack Developer at [ArteriaCS](http://arteriacs.pl) ( <0.5 year exp )
+ - 💼 Junior Fullstack Developer at [ArteriaCS](http://arteriacs.pl) ( <0.5 year exp )
  
- - ❤️ I love writing or reading Code, and learning new skills
+ - ❤️ I love writing , reading Code and learning new skills
  
  - 📫 How to reach me ?: 
     - discord: `poneciak#1573`
