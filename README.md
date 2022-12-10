@@ -35,7 +35,9 @@
 
 ## :fire: My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poneciak57&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poneciak57&layout=compact&theme=vision-friendly-dark" alt="Top languages">
+
+
 
 
 <!---
