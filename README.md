@@ -1,4 +1,4 @@
-![alt text](assets/banner.png)
+![alt text](assets/banner3.png)
 
 <p align="center" style="font-size:30">
 </p>
