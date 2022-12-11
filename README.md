@@ -5,7 +5,8 @@
 
 
 ## 🧑‍💻About Me:
-👋 passionate backend/fullstack developer from Poland  
+👋 passionate backend/fullstack web developer from Poland  
+💼 junior at [ArteriaCS](http://arteriacs.pl)  
 ❤️ love writing , reading Code and learning new skills  
 📫 `poneciak@gmail.com`
 
