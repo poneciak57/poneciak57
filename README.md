@@ -5,7 +5,7 @@
 
 
 ## 🧑‍💻About Me:
-👋 passionate software dev from Poland  
+👋 passionate programmer from Poland  
 💼 web developer at [ArteriaCS](http://arteriacs.pl)  
 ❤️ love writing , reading Code and learning new skills  
 📫 `poneciak@gmail.com`
