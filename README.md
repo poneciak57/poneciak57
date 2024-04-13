@@ -7,7 +7,7 @@
 ## 🧑‍💻About Me:
 👋 passionate programmer from Poland  
 💼 web developer at [ArteriaCS](http://arteriacs.pl)  
-🥉 laureate of polish Olimpiad in Informatics  
+🥉 laureate of polish [Olimpiad in Informatics](https://www.oi.edu.pl)  
 ❤️ love writing , reading Code and learning new skills  
 📫 `poneciak@gmail.com`
 
