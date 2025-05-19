@@ -3,6 +3,8 @@
 <p align="center" style="font-size:30">
 </p>
 
+## Quotes
+> **“GitHub issues are like the Lernaean Hydra: you squash one and three more pop up”**
 
 ## 🧑‍💻About Me:
 👋 passionate programmer from Poland  
