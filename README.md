@@ -4,7 +4,7 @@
 </p>
 
 ## Quotes
-> **“GitHub issues are like the Lernaean Hydra: you squash one and three more pop up”**
+> **"Big pull request is like a wine. It needs to age before can be merged"**
 
 ## 🧑‍💻About Me:
 👋 passionate programmer from Poland  
