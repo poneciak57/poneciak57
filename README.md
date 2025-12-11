@@ -4,7 +4,7 @@
 </p>
 
 ## Quotes
-> **"Big pull request is like a wine. It needs to age before can be merged"**
+> **"Big pull request is like a wine. It needs to age before being merged"**
 
 ## 🧑‍💻About Me:
 👋 passionate programmer from Poland  
