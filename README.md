@@ -8,8 +8,8 @@
 
 ## 🧑‍💻About Me:
 👋 passionate programmer from Poland  
-💼 software developer with over 3 years of commercial exp  
-🎓 TCS student at Jagielonian University  
+💼 software engineer with over 3 years of commercial exp  
+🎓 TCS student at Jagielonian University (2/3)
 🥉 laureate of polish [Olimpiad in Informatics](https://www.oi.edu.pl)  
 ❤️ love writing , reading Code and learning new skills  
 📫 `poneciak@gmail.com`
@@ -22,7 +22,8 @@
 <img height="50" src="./assets/ferris.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />  
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
