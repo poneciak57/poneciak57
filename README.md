@@ -9,7 +9,7 @@
 ## 🧑‍💻About Me:
 👋 passionate programmer from Poland  
 💼 software engineer with over 3 years of commercial exp  
-🎓 TCS student at Jagielonian University (2/3)
+🎓 TCS student at Jagielonian University (2/3)  
 🥉 laureate of polish [Olimpiad in Informatics](https://www.oi.edu.pl)  
 ❤️ love writing , reading Code and learning new skills  
 📫 `poneciak@gmail.com`
